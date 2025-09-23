@@ -11,11 +11,11 @@ You can click the Preview link to take a look at your changes.
   String yourString = " my name\u3000is John";
      System.out.println(yourString);
 
-//Sample output: myname isJohn
+//Sample output: myname issidharth
 --------------------
 //Regular expression
     String byRegularExpression = yourString.replaceAll("\\p{Z}", "");
     System.out.println("byRegularExpression: "+byRegularExpression);
    
- //Sample output: mynameisJohn
+ //Sample output: mynameissidharth
 
