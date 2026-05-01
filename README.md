@@ -1,21 +1,48 @@
-- 👋 Hi, I’m @Sidharth64s
-- 👀 I’m interested in hacking
-- 🌱 I’m currently learning java script 
-- 💞️ I’m looking to collaborate on gpt
-- 📫 How to reach me sidharthsunilcm64@gmail.com 
+# 👋 Hi, I'm Sidharth
 
-<!---
-Sidharth64s/Sidharth64s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->//String method   
-  String yourString = " my name\u3000is John";
-     System.out.println(yourString);
+🔐 Cybersecurity Student (ADCD)
+🎯 CEH (in progress)
+💻 Focus: Web Application Security | Bug Bounty
 
-//Sample output: myname issidharth
---------------------
-//Regular expression
-    String byRegularExpression = yourString.replaceAll("\\p{Z}", "");
-    System.out.println("byRegularExpression: "+byRegularExpression);
-   
- //Sample output: mynameissidharth
+---
+
+## 🚀 About Me
+
+* Passionate about cybersecurity and ethical hacking
+* Practicing real-world attacks using TryHackMe & Hack The Box
+* Building tools and writing vulnerability reports
+* Goal: Become a professional penetration tester
+
+---
+
+## 🛠️ Skills
+
+* Web Application Security
+* Vulnerability Assessment
+* Basic Penetration Testing
+* Python (Beginner for security tools)
+
+---
+
+## 📂 Projects
+
+* 🔍 Web Vulnerability Reports
+* 🧪 TryHackMe Writeups
+* 🛠️ Python Security Tools
+
+---
+
+## 🌐 Connect with Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/sidharth-sunilcm-aa5564358
+* 🐙 GitHub: https://github.com/Sidharth20s
+* 📧 Email: [sidharthsunilcm64@gmail.com](mailto:your-email@example.com)
+
+---
+
+## ⚡ Currently Learning
+
+* Advanced Web Exploitation
+* Bug Bounty Hunting
+* Real-world penetration testing techniques
 
