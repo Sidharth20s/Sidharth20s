@@ -33,8 +33,8 @@
 ---
 
 ## 🌐 Connect with Me
-
-* 💼 LinkedIn: https://www.linkedin.com/in/sidharth-sunilcm-aa5564358
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="sidharth-sunilcm-aa5564358" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sidharth-sunilcm-aa5564358?trk=profile-badge">Sidharth Sunilcm</a></div>
+              
 * 🐙 GitHub: https://github.com/Sidharth20s
 * 📧 Email: [sidharthsunilcm64@gmail.com](mailto:your-email@example.com)
 
