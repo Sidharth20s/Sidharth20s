@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sidharth&fontSize=60&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20CEH%20in%20progress%20%7C%20Bug%20Bounty&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sidharth&fontSize=60&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20CEH%20Certified%20%7C%20Bug%20Bounty&descAlignY=58&descAlign=50" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=Web+Application+Security+%7C+Bug+Bounty;Practicing+on+TryHackMe+%26+HackTheBox;Aspiring+Penetration+Tester;Python+%7C+Bash+%7C+JavaScript" alt="Typing SVG" />
 
@@ -12,7 +12,7 @@
 
 ```bash
 sidharth@kali:~$ whoami
-> Cybersecurity Student | CEH (in progress) | Bug Bounty Hunter
+> Cybersecurity Enthusiast | CEH Certified | Bug Bounty Hunter
 
 sidharth@kali:~$ cat mission.txt
 > Break it. Understand it. Defend it.
@@ -33,6 +33,7 @@ sidharth@kali:~$ █
 ![Profile Views](https://komarev.com/ghpvc/?username=Sidharth20s&color=39FF14&style=for-the-badge&label=PROFILE+VIEWS)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&logo=statuspage&logoColor=black)
 ![Access](https://img.shields.io/badge/ACCESS-GRANTED-39FF14?style=for-the-badge&logo=hackthebox&logoColor=black)
+![CEH](https://img.shields.io/badge/CEH-CERTIFIED-39FF14?style=for-the-badge&logo=ec-council&logoColor=black)
 
 </div>
 
@@ -40,7 +41,7 @@ sidharth@kali:~$ █
 
 ### 🚀 About Me
 
-- 🔐 Cybersecurity student — currently working toward **CEH**
+- 🔐 **CEH Certified** — Certified Ethical Hacker
 - 🎯 Focus: **Web Application Security** & **Bug Bounty Hunting**
 - 🧪 Practicing real-world attacks on **TryHackMe** and **Hack The Box**
 - 🛠️ Building tools and writing vulnerability reports
@@ -121,8 +122,6 @@ sidharth@kali:~$ █
 <img src="https://raw.githubusercontent.com/Sidharth20s/Sidharth20s/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
-
-
 
 ---
 
