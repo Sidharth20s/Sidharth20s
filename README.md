@@ -75,7 +75,6 @@ sidharth@kali:~$ █
 
 </div>
 
-> 💡 Drop your TryHackMe / HackTheBox usernames and I'll wire up live rank badges that auto-update.
 
 ---
 
