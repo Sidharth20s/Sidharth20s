@@ -122,7 +122,7 @@ sidharth@kali:~$ █
 
 </div>
 
-> Needs a one-time GitHub Action setup ([snk](https://github.com/Platane/snk)) to auto-generate — say the word and I'll write that workflow file too.
+
 
 ---
 
